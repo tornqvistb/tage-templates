@@ -3,64 +3,54 @@
 
 <layout-templates>
 	<custom>
-		<layout-template id="stocketstartpagetemplate"
-			name="Stocket Startpage Template">
-			<template-path>/stocketstartpagetemplate.tpl</template-path>
+		<layout-template id="tagestartpagetemplate"
+			name="TAGE Startpage Template">
+			<template-path>/tagestartpagetemplate.tpl</template-path>
 			<wap-template-path>
-				/stocketstartpagetemplate.wap.tpl
+				/tagestartpagetemplate.wap.tpl
 			</wap-template-path>
 			<thumbnail-path>
-				/stocketstartpagetemplate.png
+				/tagestartpagetemplate.png
 			</thumbnail-path>
 		</layout-template>
-		<layout-template id="stockettagepagetemplate"
-			name="Stocket Tagepage Template">
-			<template-path>/stockettagepagetemplate.tpl</template-path>
+		<layout-template id="tagepagetemplate"
+			name="TAGE Tagepage Template">
+			<template-path>/tagepagetemplate.tpl</template-path>
 			<wap-template-path>
-				/stockettagepagetemplate.wap.tpl
+				/tagepagetemplate.wap.tpl
 			</wap-template-path>
 			<thumbnail-path>
-				/stockettagepagetemplate.png
+				/tagepagetemplate.png
 			</thumbnail-path>
 		</layout-template>
-		<layout-template id="stocket2colspagetemplate"
-			name="Stocket 2 columns Template">
-			<template-path>/stocket2colspagetemplate.tpl</template-path>
+		<layout-template id="tage2colspagetemplate"
+			name="TAGE 2 columns Template">
+			<template-path>/tage2colspagetemplate.tpl</template-path>
 			<wap-template-path>
-				/stocket2colspagetemplate.wap.tpl
+				/tage2colspagetemplate.wap.tpl
 			</wap-template-path>
 			<thumbnail-path>
-				/stocket2colspagetemplate.png
+				/tage2colspagetemplate.png
 			</thumbnail-path>
 		</layout-template>
-		<layout-template id="stocketnewspagetemplate"
-			name="Stocket Newspage Template">
-			<template-path>/stocketnewspagetemplate.tpl</template-path>
+		<layout-template id="tage1colpagetemplate"
+			name="TAGE 1 column Template">
+			<template-path>/tage1colpagetemplate.tpl</template-path>
 			<wap-template-path>
-				/stocketnewspagetemplate.wap.tpl
+				/tage1colpagetemplate.wap.tpl
 			</wap-template-path>
 			<thumbnail-path>
-				/stocketnewspagetemplate.png
+				/tage1colpagetemplate.png
 			</thumbnail-path>
 		</layout-template>
-		<layout-template id="stocket1colpagetemplate"
-			name="Stocket 1 column Template">
-			<template-path>/stocket1colpagetemplate.tpl</template-path>
+		<layout-template id="tagereglerpagetemplate"
+			name="TAGE Reglerpage Template">
+			<template-path>/tagereglerpagetemplate.tpl</template-path>
 			<wap-template-path>
-				/stocket1colpagetemplate.wap.tpl
+				/tagereglerpagetemplate.wap.tpl
 			</wap-template-path>
 			<thumbnail-path>
-				/stocket1colpagetemplate.png
-			</thumbnail-path>
-		</layout-template>
-		<layout-template id="stocketreglerpagetemplate"
-			name="Stocket Reglerpage Template">
-			<template-path>/stocketreglerpagetemplate.tpl</template-path>
-			<wap-template-path>
-				/stocketreglerpagetemplate.wap.tpl
-			</wap-template-path>
-			<thumbnail-path>
-				/stocketreglerpagetemplate.png
+				/tagereglerpagetemplate.png
 			</thumbnail-path>
 		</layout-template>
 	</custom>

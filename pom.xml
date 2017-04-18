@@ -3,10 +3,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>se.arctisys.liferay.plugins</groupId>
-	<artifactId>stocket-startpage</artifactId>
+	<artifactId>tage-templates</artifactId>
 	<packaging>war</packaging>
-	<name>stocket-startpage Layout Template</name>
-	<version>1.0.0-SNAPSHOT</version>
+	<name>TAGE Layout Templates</name>
+	<version>1.0</version>
 	<build>
 		<plugins>
 			<plugin>
@@ -75,4 +75,8 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+	<properties>
+		<liferay.maven.plugin.version>6.2.4</liferay.maven.plugin.version>
+		<liferay.version>6.2.4</liferay.version>
+	</properties>
 </project>

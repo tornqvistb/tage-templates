@@ -10,7 +10,7 @@
 			$processor.processColumn("column-3", "portlet-column-content portlet-column-content-last")
 		</div>
 	</div>
-
+<!-- 
 	<div class="portlet-layout row-fluid">
 		<div class="portlet-column portlet-column-first span3" id="column-4">
 			$processor.processColumn("column-4", "portlet-column-content portlet-column-content-first")
@@ -25,5 +25,5 @@
 			$processor.processColumn("column-7", "portlet-column-content portlet-column-content-last")
 		</div>
 	</div>
-
+ -->
 </div>
